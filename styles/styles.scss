@@ -1,0 +1,15 @@
+@import 'homenavbar';
+@import 'homebody';
+
+* {
+    margin:0;
+    padding:0;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    background-image:url('images/bg.jpeg');
+    background-size: cover;
+    background-position: center;  
+}
